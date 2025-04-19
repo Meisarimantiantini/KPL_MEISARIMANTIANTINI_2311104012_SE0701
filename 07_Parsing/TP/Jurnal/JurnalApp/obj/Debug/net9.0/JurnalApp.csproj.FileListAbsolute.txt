@@ -1,0 +1,15 @@
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\bin\Debug\net9.0\JurnalApp.exe
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\bin\Debug\net9.0\JurnalApp.deps.json
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\bin\Debug\net9.0\JurnalApp.runtimeconfig.json
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\bin\Debug\net9.0\JurnalApp.dll
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\bin\Debug\net9.0\JurnalApp.pdb
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\obj\Debug\net9.0\JurnalApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\obj\Debug\net9.0\JurnalApp.AssemblyInfoInputs.cache
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\obj\Debug\net9.0\JurnalApp.AssemblyInfo.cs
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\obj\Debug\net9.0\JurnalApp.csproj.CoreCompileInputs.cache
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\obj\Debug\net9.0\JurnalApp.sourcelink.json
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\obj\Debug\net9.0\JurnalApp.dll
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\obj\Debug\net9.0\refint\JurnalApp.dll
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\obj\Debug\net9.0\JurnalApp.pdb
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\obj\Debug\net9.0\JurnalApp.genruntimeconfig.cache
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\JurnalApp\obj\Debug\net9.0\ref\JurnalApp.dll
