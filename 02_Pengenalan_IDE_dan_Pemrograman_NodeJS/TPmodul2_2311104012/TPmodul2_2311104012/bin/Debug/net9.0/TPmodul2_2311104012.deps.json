@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TPmodul2_2311104012/1.0.0": {
+        "runtime": {
+          "TPmodul2_2311104012.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPmodul2_2311104012/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
