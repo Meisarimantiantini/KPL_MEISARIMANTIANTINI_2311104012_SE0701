@@ -1,0 +1,15 @@
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\bin\Debug\net9.0\ParsingTP.exe
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\bin\Debug\net9.0\ParsingTP.deps.json
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\bin\Debug\net9.0\ParsingTP.runtimeconfig.json
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\bin\Debug\net9.0\ParsingTP.dll
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\bin\Debug\net9.0\ParsingTP.pdb
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\obj\Debug\net9.0\ParsingTP.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\obj\Debug\net9.0\ParsingTP.AssemblyInfoInputs.cache
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\obj\Debug\net9.0\ParsingTP.AssemblyInfo.cs
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\obj\Debug\net9.0\ParsingTP.csproj.CoreCompileInputs.cache
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\obj\Debug\net9.0\ParsingTP.sourcelink.json
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\obj\Debug\net9.0\ParsingTP.dll
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\obj\Debug\net9.0\refint\ParsingTP.dll
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\obj\Debug\net9.0\ParsingTP.pdb
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\obj\Debug\net9.0\ParsingTP.genruntimeconfig.cache
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\ParsingTP\obj\Debug\net9.0\ref\ParsingTP.dll

@@ -1,0 +1,15 @@
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\bin\Debug\net9.0\Jurnal.exe
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\bin\Debug\net9.0\Jurnal.deps.json
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\bin\Debug\net9.0\Jurnal.runtimeconfig.json
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\bin\Debug\net9.0\Jurnal.dll
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\bin\Debug\net9.0\Jurnal.pdb
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\obj\Debug\net9.0\Jurnal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\obj\Debug\net9.0\Jurnal.AssemblyInfoInputs.cache
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\obj\Debug\net9.0\Jurnal.AssemblyInfo.cs
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\obj\Debug\net9.0\Jurnal.csproj.CoreCompileInputs.cache
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\obj\Debug\net9.0\Jurnal.sourcelink.json
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\obj\Debug\net9.0\Jurnal.dll
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\obj\Debug\net9.0\refint\Jurnal.dll
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\obj\Debug\net9.0\Jurnal.pdb
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\obj\Debug\net9.0\Jurnal.genruntimeconfig.cache
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\07_Parsing\TP\Jurnal\obj\Debug\net9.0\ref\Jurnal.dll
