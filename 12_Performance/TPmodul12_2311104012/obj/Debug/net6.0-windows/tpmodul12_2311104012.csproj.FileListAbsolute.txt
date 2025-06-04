@@ -1,0 +1,5 @@
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\12_Performance\TPmodul12_2311104012\obj\Debug\net6.0-windows\tpmodul12_2311104012.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\12_Performance\TPmodul12_2311104012\obj\Debug\net6.0-windows\tpmodul12_2311104012.AssemblyInfoInputs.cache
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\12_Performance\TPmodul12_2311104012\obj\Debug\net6.0-windows\tpmodul12_2311104012.AssemblyInfo.cs
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\12_Performance\TPmodul12_2311104012\obj\Debug\net6.0-windows\tpmodul12_2311104012.csproj.CoreCompileInputs.cache
+D:\SEMESTER 4_Praktikum KPL\KPL_MEISARIMANTIANTINI_2311104012_SE0701\12_Performance\TPmodul12_2311104012\obj\Debug\net6.0-windows\tpmodul12_2311104012.sourcelink.json

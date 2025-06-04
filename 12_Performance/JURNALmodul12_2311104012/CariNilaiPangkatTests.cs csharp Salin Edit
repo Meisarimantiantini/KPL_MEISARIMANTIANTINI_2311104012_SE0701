@@ -1,0 +1,26 @@
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using JURNALmodul12_2311104012;
+
+namespace JURNALmodul12_2311104012.Tests
+{
+    [TestClass]
+    public class CariNilaiPangkatTests
+    {
+        private readonly Form1 form = new Form1();
+
+        [TestMethod]
+        public void TestBZero() => Assert.AreEqual(1, form.CariNilaiPangkat(0, 0));
+
+        [TestMethod]
+        public void TestBNegatif() => Assert.AreEqual(-1, form.CariNilaiPangkat(5, -2));
+
+        [TestMethod]
+        public void TestOutOfRange() => Assert.AreEqual(-2, form.CariNilaiPangkat(101, 2));
+
+        [TestMethod]
+        public void TestOverflow() => Assert.AreEqual(-3, form.CariNilaiPangkat(9, 30));
+
+        [TestMethod]
+        public void TestNormal() => Assert.AreEqual(81, form.CariNilaiPangkat(3, 4));
+    }
+}
