@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML dengan CSS dan JS</title>
+    <style>
+        h1 {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="judul">Judul Awal</h1>
+    <button onclick="ubahJudul()">Ubah Judul</button>
+
+    <script>
+        function ubahJudul() {
+            document.getElementById("judul").innerText = "Judul Telah Diubah!";
+        }
+    </script>
+</body>
+</html>
